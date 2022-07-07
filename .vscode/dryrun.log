@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/com.docker.devenvironments.code'
+make: Leaving directory '/com.docker.devenvironments.code'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
